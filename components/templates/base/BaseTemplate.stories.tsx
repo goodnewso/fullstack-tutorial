@@ -4,7 +4,7 @@ import { mockBaseTemplateProps } from './BaseTemplate.mocks';
 
 // More on default export: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
 export default {
-  title: 'templates|BaseTemplate',
+  title: 'templates/BaseTemplate',
   component: BaseTemplate,
   // More on argTypes: https://storybook.js.org/docs/react/api/argtypes
   argTypes: {},
